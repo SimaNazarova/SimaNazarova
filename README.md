@@ -32,9 +32,17 @@
 </details>
 
 
+<br/>
 
+   #### My tech stack
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></code>
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/react.svg" alt="React" width="21px" height="21px"></code>
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/css-3.svg" alt="CSS" width="21px" height="21px"></code>
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/html-5.svg" alt="HTML" width="21px" height="21px"></code>
 
-   ## My stats 
+<br/>
+
+   #### My stats 
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaNazarova)](https://github.com/SimaNazarova/github-readme-stats)
 <!--
