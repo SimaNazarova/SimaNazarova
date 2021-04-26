@@ -32,10 +32,9 @@
 </details>
 
 
-```
-```
 
-   ### My stats 
+
+   ## My stats 
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaNazarova)](https://github.com/SimaNazarova/github-readme-stats)
 <!--
