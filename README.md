@@ -5,7 +5,7 @@
 
 
 <details>
-<summary>Мои работы: </summary>
+<summary>Мои проекты: </summary>
     
 - **Проект "Movies Explorer" (Дипломный проект)**
 
