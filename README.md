@@ -1,10 +1,36 @@
 ### Hi there 👋
 
+Я начинающий фронтенд-разработчик. В апреле 2021 года закончила курсы от Яндекс.Практикум.
+
+#### Мои работы:
+
+- **Дипломный проект**
+
+    [Фронтенд](https://github.com/SimaNazarova/movies-explorer-frontend)
+    
+    [Бэкенд](https://github.com/SimaNazarova/movies-explorer-api)
+    
+ - **Проект "Mesto"**   
+ 
+    [Фронтенд и Бэкенд](https://github.com/SimaNazarova/react-mesto-api-full)
+    
+ - **Проект "Путешествие по России"**   
+ 
+    [Вёрстка лендинга](https://github.com/SimaNazarova/russian-travel)
+    
+ - **Проект "Научиться учиться"**   
+ 
+    [Вёрстка лендинга](https://github.com/SimaNazarova/how-to-learn)
+    
+  - **Проект "Clerksy"**   
+ 
+    [Вёрстка лендинга](https://github.com/SimaNazarova/Clerksy)
+<!--
 <!--
 **SimaNazarova/SimaNazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
