@@ -3,6 +3,9 @@
 Я начинающий фронтенд-разработчик.
 В апреле 2021 года закончила курсы от Яндекс.Практикум.
 
+
+
+
 #### Мои работы:
 
 - **Проект "Movies Explorer" (Дипломный проект)**
@@ -26,6 +29,8 @@
   - **Проект "Clerksy"**   
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/Clerksy)
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaNazarova)](https://github.com/SimaNazarova/github-readme-stats)
 <!--
 <!--
 **SimaNazarova/SimaNazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
