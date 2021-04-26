@@ -5,7 +5,7 @@
 
 #### Мои работы:
 
-- **Дипломный проект**
+- **проект "Movies Explorer" (Дипломный проект)**
 
     [Фронтенд](https://github.com/SimaNazarova/movies-explorer-frontend)
     
