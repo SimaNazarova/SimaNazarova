@@ -40,6 +40,7 @@
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/react.svg" alt="React" width="21px" height="21px"></code>
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/css-3.svg" alt="CSS" width="21px" height="21px"></code>
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/html-5.svg" alt="HTML" width="21px" height="21px"></code>
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/sass.svg" alt="Sass" width="21px" height="21px"></code>
 
 <br/>
 
