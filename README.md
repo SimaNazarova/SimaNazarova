@@ -26,6 +26,10 @@
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/how-to-learn)
     
+ - **Проект "Научиться учиться" (статичный сайт)**   
+ 
+    [Вёрстка лендинга с использованием SASS/SCSS](https://github.com/SimaNazarova/le-corte)
+    
   - **Проект "Clerksy" (статичный сайт)**   
  
  
