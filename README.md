@@ -3,7 +3,7 @@
 Я начинающий фронтенд-разработчик.
 В апреле 2021 года закончила курсы от Яндекс.Практикум.
 
-- 🌱 I’m currently learning SASS/SCSS
+
 
 <details>
 <summary>Мои проекты: </summary>
@@ -58,7 +58,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+- 🌱 I’m currently learning SASS/SCSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
