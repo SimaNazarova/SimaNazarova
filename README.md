@@ -3,10 +3,10 @@
 Я начинающий фронтенд-разработчик.
 В апреле 2021 года закончила курсы от Яндекс.Практикум.
 
-- 🌱 I’m currently learning JQuery
 
-<details>
-<summary>Мои проекты: </summary>
+
+
+Мои проекты: 
     
 - **Учебный проект "Movies Explorer" (Дипломный проект)**
 
@@ -34,7 +34,7 @@
  
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/Clerksy)
-</details>
+
 
 
 <br/>
@@ -58,6 +58,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning JQuery
 - 🌱 I’m currently learning SASS/SCSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
