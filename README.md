@@ -8,21 +8,21 @@
 <details>
 <summary>Мои проекты: </summary>
     
-- **Проект "Movies Explorer" (Дипломный проект)**
+- **Учебный проект "Movies Explorer" (Дипломный проект)**
 
     [Фронтенд](https://github.com/SimaNazarova/movies-explorer-frontend)
     
     [Бэкенд](https://github.com/SimaNazarova/movies-explorer-api)
     
- - **Проект "Mesto"**   
+ - **Учебный проект "Mesto"**   
  
     [Фронтенд и Бэкенд](https://github.com/SimaNazarova/react-mesto-api-full)
     
- - **Проект "Путешествие по России" (адапативная вёрстка)**   
+ - **Учебный проект "Путешествие по России" (адапативная вёрстка)**   
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/russian-travel)
     
- - **Проект "Научиться учиться" (статичный сайт)**   
+ - **Учебный проект "Научиться учиться" (статичный сайт)**   
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/how-to-learn)
     
