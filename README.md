@@ -22,6 +22,10 @@
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/russian-travel)
     
+ - **Учебный проект "Путешествие по России" (адапативная вёрстка + GSAP)**   
+ 
+    [Вёрстка лендинга](https://github.com/SimaNazarova/russian-travel-gsap)
+    
  - **Учебный проект "Научиться учиться" (статичный сайт)**   
  
     [Вёрстка лендинга](https://github.com/SimaNazarova/how-to-learn)
