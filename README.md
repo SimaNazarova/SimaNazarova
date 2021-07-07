@@ -1,3 +1,5 @@
+<!--
+<!--
 ### Hi there 👋
 
 Я начинающий фронтенд-разработчик.
@@ -55,8 +57,7 @@
    #### My stats 
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaNazarova)](https://github.com/SimaNazarova/github-readme-stats)
-<!--
-<!--
+
 **SimaNazarova/SimaNazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
