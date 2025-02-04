@@ -24,7 +24,7 @@
 
     [Код](https://github.com/SimaNazarova/oxem-test-task) и  [Деплой](https://oxem-test-task-nine.vercel.app/)
     
- - **Исторические дат"**   
+ - **Исторические даты**   
  
     [Код](https://github.com/SimaNazarova/only-test)  и  [Деплой](https://only-test-mk8u.vercel.app/)
 
