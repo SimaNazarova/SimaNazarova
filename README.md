@@ -1,74 +1,43 @@
-<!--
-<!--
-### Hi there 👋
 
-Я начинающий фронтенд-разработчик.
-В апреле 2021 года закончила курсы от Яндекс.Практикум.
+### Привет 👋
 
+Меня зовут Серафима.
+Я фронтенд-разработчица
 
-
-
-Мои проекты: 
-    
-- **Учебный проект "Movies Explorer" (Дипломный проект)**
-
-    [Фронтенд](https://github.com/SimaNazarova/movies-explorer-frontend)
-    
-    [Бэкенд](https://github.com/SimaNazarova/movies-explorer-api)
-    
- - **Учебный проект "Mesto"**   
- 
-    [Фронтенд и Бэкенд](https://github.com/SimaNazarova/react-mesto-api-full)
-    
- - **Учебный проект "Путешествие по России" (адапативная вёрстка)**   
- 
-    [Вёрстка лендинга](https://github.com/SimaNazarova/russian-travel)
-    
- - **Учебный проект "Путешествие по России" (адапативная вёрстка + GSAP)**   
- 
-    [Вёрстка лендинга](https://github.com/SimaNazarova/russian-travel-gsap)
-    
- - **Учебный проект "Научиться учиться" (статичный сайт)**   
- 
-    [Вёрстка лендинга](https://github.com/SimaNazarova/how-to-learn)
-    
- - **Проект "Le Corte" (статичный сайт)**   
- 
-    [Вёрстка лендинга с использованием SASS/SCSS](https://github.com/SimaNazarova/le-corte)
-    
-  - **Проект "Clerksy" (статичный сайт)**   
- 
- 
-    [Вёрстка лендинга](https://github.com/SimaNazarova/Clerksy)
-
-
-
-<br/>
-
-   #### My tech stack
+   #### Мой стек
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></code>
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/react.svg" alt="React" width="21px" height="21px"></code>
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/NextJS-Dark.svg" alt="Next" width="21px" height="21px"></code>
+<code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/Redux.svg" alt="Redux" width="21px" height="21px"></code>
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/css-3.svg" alt="CSS" width="21px" height="21px"></code>
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/html-5.svg" alt="HTML" width="21px" height="21px"></code>
 <code><img src="https://github.com/SimaNazarova/SimaNazarova/blob/main/icons/sass.svg" alt="Sass" width="21px" height="21px"></code>
 
 <br/>
 
+
+
+
+Мои проекты: 
+    
+- **Калькулятор лизинга**
+
+    [Код](https://github.com/SimaNazarova/oxem-test-task) и  [Деплой](https://oxem-test-task-nine.vercel.app/)
+    
+ - **Исторические дат"**   
+ 
+    [Код](https://github.com/SimaNazarova/only-test)  и  [Деплой](https://only-test-mk8u.vercel.app/)
+
+ - **Лендинг с анимацией горизонтального скролла**   
+ 
+    [Код](https://github.com/SimaNazarova/keep-calm-test?tab=readme-ov-file)  и  [Деплой](https://keep-calm-test-omega.vercel.app/)
+    
+
+<br/>
+<br/>
+<br/>
+
    #### My stats 
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaNazarova)](https://github.com/SimaNazarova/github-readme-stats)
 
-**SimaNazarova/SimaNazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JQuery
-- 🌱 I’m currently learning SASS/SCSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
